@@ -46,7 +46,7 @@ nav {
   height: 670px;
   width: auto;
   background-repeat: no-repeat;
-  background-image: url(/assets/hero-bg.png);
+  background-image: url(assets/herobg.png);
   display: flex;
   flex-direction: column;
   align-items: center;
